@@ -1,0 +1,1002 @@
+[
+  {
+    "propertyId": "P001",
+    "description": "This 5-bedroom apartment in DHA Phase 6, Lahore offers 148 m\u00b2 of modern living space with servant quarter, balcony, gym.",
+    "highlights": [
+      "Servant Quarter",
+      "Balcony",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P002",
+    "description": "This 4-bedroom apartment in University Town, Peshawar offers 62 m\u00b2 of modern living space with garage, smart security, balcony.",
+    "highlights": [
+      "Garage",
+      "Smart Security",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P003",
+    "description": "This 4-bedroom apartment in People's Colony, Faisalabad offers 86 m\u00b2 of modern living space with cctv, garage, servant quarter.",
+    "highlights": [
+      "CCTV",
+      "Garage",
+      "Servant Quarter"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P004",
+    "description": "This 5-bedroom villa in Bahria Town, Lahore offers 154 m\u00b2 of modern living space with balcony, elevator, cctv.",
+    "highlights": [
+      "Balcony",
+      "Elevator",
+      "CCTV"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P005",
+    "description": "This 4-bedroom villa in Madina Town, Faisalabad offers 251 m\u00b2 of modern living space with garage, balcony, elevator.",
+    "highlights": [
+      "Garage",
+      "Balcony",
+      "Elevator"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P006",
+    "description": "This 5-bedroom apartment in Madina Town, Faisalabad offers 135 m\u00b2 of modern living space with balcony, elevator, smart security.",
+    "highlights": [
+      "Balcony",
+      "Elevator",
+      "Smart Security"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P007",
+    "description": "This 6-bedroom house in Cantt, Peshawar offers 99 m\u00b2 of modern living space with balcony, garden, cctv.",
+    "highlights": [
+      "Balcony",
+      "Garden",
+      "CCTV"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P008",
+    "description": "This 4-bedroom villa in Hayatabad, Peshawar offers 289 m\u00b2 of modern living space with solar panels, swimming pool, gym.",
+    "highlights": [
+      "Solar Panels",
+      "Swimming Pool",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P009",
+    "description": "This 6-bedroom apartment in Gulshan-e-Iqbal, Karachi offers 184 m\u00b2 of modern living space with cctv, garden, balcony.",
+    "highlights": [
+      "CCTV",
+      "Garden",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P010",
+    "description": "This 5-bedroom villa in Hayatabad, Peshawar offers 249 m\u00b2 of modern living space with smart security, garage, servant quarter.",
+    "highlights": [
+      "Smart Security",
+      "Garage",
+      "Servant Quarter"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P011",
+    "description": "This 4-bedroom villa in Johar Town, Lahore offers 159 m\u00b2 of modern living space with solar panels, garden, gym.",
+    "highlights": [
+      "Solar Panels",
+      "Garden",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P012",
+    "description": "This 5-bedroom villa in DHA, Multan offers 155 m\u00b2 of modern living space with swimming pool, servant quarter, gym.",
+    "highlights": [
+      "Swimming Pool",
+      "Servant Quarter",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P013",
+    "description": "This 4-bedroom house in Model Town, Multan offers 271 m\u00b2 of modern living space with servant quarter, solar panels, garage.",
+    "highlights": [
+      "Servant Quarter",
+      "Solar Panels",
+      "Garage"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P014",
+    "description": "This 5-bedroom apartment in Canal Road, Faisalabad offers 109 m\u00b2 of modern living space with garage, cctv, gym.",
+    "highlights": [
+      "Garage",
+      "CCTV",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P015",
+    "description": "This 5-bedroom apartment in Clifton, Karachi offers 169 m\u00b2 of modern living space with garden, smart security, cctv.",
+    "highlights": [
+      "Garden",
+      "Smart Security",
+      "CCTV"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P016",
+    "description": "This 6-bedroom smart-home in Johar Town, Lahore offers 86 m\u00b2 of modern living space with gym, balcony, servant quarter.",
+    "highlights": [
+      "Gym",
+      "Balcony",
+      "Servant Quarter"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P017",
+    "description": "This 2-bedroom apartment in Bahria Town, Lahore offers 272 m\u00b2 of modern living space with smart security, elevator, gym.",
+    "highlights": [
+      "Smart Security",
+      "Elevator",
+      "Gym"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P018",
+    "description": "This 4-bedroom smart-home in Bahria Enclave, Islamabad offers 216 m\u00b2 of modern living space with balcony, cctv, garage.",
+    "highlights": [
+      "Balcony",
+      "CCTV",
+      "Garage"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P019",
+    "description": "This 5-bedroom apartment in Hayatabad, Peshawar offers 96 m\u00b2 of modern living space with gym, swimming pool, elevator.",
+    "highlights": [
+      "Gym",
+      "Swimming Pool",
+      "Elevator"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P020",
+    "description": "This 5-bedroom apartment in DHA, Multan offers 111 m\u00b2 of modern living space with elevator, garden, garage.",
+    "highlights": [
+      "Elevator",
+      "Garden",
+      "Garage"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P021",
+    "description": "This 2-bedroom house in DHA Phase 6, Lahore offers 238 m\u00b2 of modern living space with swimming pool, smart security, solar panels.",
+    "highlights": [
+      "Swimming Pool",
+      "Smart Security",
+      "Solar Panels"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P022",
+    "description": "This 5-bedroom smart-home in Madina Town, Faisalabad offers 185 m\u00b2 of modern living space with cctv, balcony, garage.",
+    "highlights": [
+      "CCTV",
+      "Balcony",
+      "Garage"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P023",
+    "description": "This 4-bedroom house in F-10, Islamabad offers 72 m\u00b2 of modern living space with elevator, balcony, cctv.",
+    "highlights": [
+      "Elevator",
+      "Balcony",
+      "CCTV"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P024",
+    "description": "This 2-bedroom apartment in DHA, Karachi offers 256 m\u00b2 of modern living space with elevator, servant quarter, swimming pool.",
+    "highlights": [
+      "Elevator",
+      "Servant Quarter",
+      "Swimming Pool"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P025",
+    "description": "This 2-bedroom house in Model Town, Multan offers 140 m\u00b2 of modern living space with solar panels, elevator, cctv.",
+    "highlights": [
+      "Solar Panels",
+      "Elevator",
+      "CCTV"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P026",
+    "description": "This 2-bedroom villa in University Town, Peshawar offers 207 m\u00b2 of modern living space with garden, smart security, balcony.",
+    "highlights": [
+      "Garden",
+      "Smart Security",
+      "Balcony"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P027",
+    "description": "This 3-bedroom villa in Bahria Town, Rawalpindi offers 117 m\u00b2 of modern living space with garden, cctv, gym.",
+    "highlights": [
+      "Garden",
+      "CCTV",
+      "Gym"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P028",
+    "description": "This 5-bedroom smart-home in Chaklala, Rawalpindi offers 154 m\u00b2 of modern living space with smart security, elevator, garage.",
+    "highlights": [
+      "Smart Security",
+      "Elevator",
+      "Garage"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P029",
+    "description": "This 4-bedroom smart-home in Gulshan-e-Iqbal, Karachi offers 64 m\u00b2 of modern living space with gym, garage, garden.",
+    "highlights": [
+      "Gym",
+      "Garage",
+      "Garden"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P030",
+    "description": "This 4-bedroom villa in G-11, Islamabad offers 245 m\u00b2 of modern living space with gym, garage, servant quarter.",
+    "highlights": [
+      "Gym",
+      "Garage",
+      "Servant Quarter"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P031",
+    "description": "This 4-bedroom smart-home in DHA, Karachi offers 93 m\u00b2 of modern living space with servant quarter, swimming pool, garage.",
+    "highlights": [
+      "Servant Quarter",
+      "Swimming Pool",
+      "Garage"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P032",
+    "description": "This 6-bedroom apartment in Cantt, Multan offers 273 m\u00b2 of modern living space with gym, balcony, servant quarter.",
+    "highlights": [
+      "Gym",
+      "Balcony",
+      "Servant Quarter"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P033",
+    "description": "This 4-bedroom villa in Clifton, Karachi offers 118 m\u00b2 of modern living space with garage, cctv, gym.",
+    "highlights": [
+      "Garage",
+      "CCTV",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P034",
+    "description": "This 2-bedroom villa in Cantt, Peshawar offers 290 m\u00b2 of modern living space with solar panels, garden, garage.",
+    "highlights": [
+      "Solar Panels",
+      "Garden",
+      "Garage"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P035",
+    "description": "This 2-bedroom villa in Chaklala, Rawalpindi offers 201 m\u00b2 of modern living space with garden, garage, gym.",
+    "highlights": [
+      "Garden",
+      "Garage",
+      "Gym"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P036",
+    "description": "This 3-bedroom villa in Bahria Enclave, Islamabad offers 86 m\u00b2 of modern living space with solar panels, garage, swimming pool.",
+    "highlights": [
+      "Solar Panels",
+      "Garage",
+      "Swimming Pool"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P037",
+    "description": "This 5-bedroom villa in Cantt, Peshawar offers 94 m\u00b2 of modern living space with smart security, gym, elevator.",
+    "highlights": [
+      "Smart Security",
+      "Gym",
+      "Elevator"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P038",
+    "description": "This 3-bedroom smart-home in Madina Town, Faisalabad offers 191 m\u00b2 of modern living space with servant quarter, garden, swimming pool.",
+    "highlights": [
+      "Servant Quarter",
+      "Garden",
+      "Swimming Pool"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P039",
+    "description": "This 6-bedroom house in DHA, Karachi offers 132 m\u00b2 of modern living space with garage, smart security, servant quarter.",
+    "highlights": [
+      "Garage",
+      "Smart Security",
+      "Servant Quarter"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P040",
+    "description": "This 2-bedroom apartment in Satellite Town, Rawalpindi offers 257 m\u00b2 of modern living space with elevator, solar panels, cctv.",
+    "highlights": [
+      "Elevator",
+      "Solar Panels",
+      "CCTV"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P041",
+    "description": "This 4-bedroom apartment in DHA, Karachi offers 189 m\u00b2 of modern living space with solar panels, servant quarter, cctv.",
+    "highlights": [
+      "Solar Panels",
+      "Servant Quarter",
+      "CCTV"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P042",
+    "description": "This 5-bedroom apartment in Johar Town, Lahore offers 274 m\u00b2 of modern living space with servant quarter, garden, balcony.",
+    "highlights": [
+      "Servant Quarter",
+      "Garden",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P043",
+    "description": "This 2-bedroom smart-home in Bahria Town, Lahore offers 110 m\u00b2 of modern living space with servant quarter, balcony, elevator.",
+    "highlights": [
+      "Servant Quarter",
+      "Balcony",
+      "Elevator"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P044",
+    "description": "This 5-bedroom smart-home in University Town, Peshawar offers 163 m\u00b2 of modern living space with balcony, smart security, garden.",
+    "highlights": [
+      "Balcony",
+      "Smart Security",
+      "Garden"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P045",
+    "description": "This 3-bedroom villa in F-10, Islamabad offers 116 m\u00b2 of modern living space with swimming pool, elevator, garden.",
+    "highlights": [
+      "Swimming Pool",
+      "Elevator",
+      "Garden"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P046",
+    "description": "This 6-bedroom apartment in G-11, Islamabad offers 171 m\u00b2 of modern living space with garage, balcony, gym.",
+    "highlights": [
+      "Garage",
+      "Balcony",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P047",
+    "description": "This 2-bedroom apartment in Cantt, Peshawar offers 70 m\u00b2 of modern living space with garden, garage, solar panels.",
+    "highlights": [
+      "Garden",
+      "Garage",
+      "Solar Panels"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P048",
+    "description": "This 5-bedroom house in Bahria Town, Rawalpindi offers 90 m\u00b2 of modern living space with cctv, garden, servant quarter.",
+    "highlights": [
+      "CCTV",
+      "Garden",
+      "Servant Quarter"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P049",
+    "description": "This 2-bedroom smart-home in DHA, Multan offers 118 m\u00b2 of modern living space with cctv, garden, elevator.",
+    "highlights": [
+      "CCTV",
+      "Garden",
+      "Elevator"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P050",
+    "description": "This 4-bedroom smart-home in F-10, Islamabad offers 157 m\u00b2 of modern living space with servant quarter, swimming pool, cctv.",
+    "highlights": [
+      "Servant Quarter",
+      "Swimming Pool",
+      "CCTV"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P051",
+    "description": "This 5-bedroom villa in University Town, Peshawar offers 83 m\u00b2 of modern living space with garage, solar panels, swimming pool.",
+    "highlights": [
+      "Garage",
+      "Solar Panels",
+      "Swimming Pool"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P052",
+    "description": "This 6-bedroom house in Gulshan-e-Iqbal, Karachi offers 118 m\u00b2 of modern living space with garden, smart security, elevator.",
+    "highlights": [
+      "Garden",
+      "Smart Security",
+      "Elevator"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P053",
+    "description": "This 4-bedroom apartment in Madina Town, Faisalabad offers 290 m\u00b2 of modern living space with elevator, garage, swimming pool.",
+    "highlights": [
+      "Elevator",
+      "Garage",
+      "Swimming Pool"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P054",
+    "description": "This 2-bedroom smart-home in Clifton, Karachi offers 148 m\u00b2 of modern living space with elevator, balcony, garage.",
+    "highlights": [
+      "Elevator",
+      "Balcony",
+      "Garage"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P055",
+    "description": "This 2-bedroom smart-home in University Town, Peshawar offers 207 m\u00b2 of modern living space with solar panels, swimming pool, balcony.",
+    "highlights": [
+      "Solar Panels",
+      "Swimming Pool",
+      "Balcony"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P056",
+    "description": "This 6-bedroom smart-home in Satellite Town, Rawalpindi offers 103 m\u00b2 of modern living space with solar panels, balcony, swimming pool.",
+    "highlights": [
+      "Solar Panels",
+      "Balcony",
+      "Swimming Pool"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P057",
+    "description": "This 4-bedroom smart-home in Clifton, Karachi offers 273 m\u00b2 of modern living space with balcony, garage, gym.",
+    "highlights": [
+      "Balcony",
+      "Garage",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P058",
+    "description": "This 2-bedroom smart-home in Cantt, Multan offers 253 m\u00b2 of modern living space with servant quarter, balcony, garden.",
+    "highlights": [
+      "Servant Quarter",
+      "Balcony",
+      "Garden"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P059",
+    "description": "This 2-bedroom villa in Madina Town, Faisalabad offers 182 m\u00b2 of modern living space with garden, solar panels, balcony.",
+    "highlights": [
+      "Garden",
+      "Solar Panels",
+      "Balcony"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P060",
+    "description": "This 5-bedroom apartment in Hayatabad, Peshawar offers 84 m\u00b2 of modern living space with garage, solar panels, cctv.",
+    "highlights": [
+      "Garage",
+      "Solar Panels",
+      "CCTV"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P061",
+    "description": "This 6-bedroom smart-home in Gulshan-e-Iqbal, Karachi offers 182 m\u00b2 of modern living space with solar panels, garage, elevator.",
+    "highlights": [
+      "Solar Panels",
+      "Garage",
+      "Elevator"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P062",
+    "description": "This 3-bedroom villa in Canal Road, Faisalabad offers 280 m\u00b2 of modern living space with solar panels, servant quarter, gym.",
+    "highlights": [
+      "Solar Panels",
+      "Servant Quarter",
+      "Gym"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P063",
+    "description": "This 6-bedroom house in Johar Town, Lahore offers 155 m\u00b2 of modern living space with servant quarter, garage, garden.",
+    "highlights": [
+      "Servant Quarter",
+      "Garage",
+      "Garden"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P064",
+    "description": "This 6-bedroom apartment in F-10, Islamabad offers 80 m\u00b2 of modern living space with garden, swimming pool, garage.",
+    "highlights": [
+      "Garden",
+      "Swimming Pool",
+      "Garage"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P065",
+    "description": "This 3-bedroom villa in DHA, Multan offers 228 m\u00b2 of modern living space with cctv, solar panels, swimming pool.",
+    "highlights": [
+      "CCTV",
+      "Solar Panels",
+      "Swimming Pool"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P066",
+    "description": "This 6-bedroom villa in Madina Town, Faisalabad offers 124 m\u00b2 of modern living space with servant quarter, solar panels, elevator.",
+    "highlights": [
+      "Servant Quarter",
+      "Solar Panels",
+      "Elevator"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P067",
+    "description": "This 4-bedroom villa in People's Colony, Faisalabad offers 275 m\u00b2 of modern living space with gym, solar panels, garage.",
+    "highlights": [
+      "Gym",
+      "Solar Panels",
+      "Garage"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P068",
+    "description": "This 6-bedroom apartment in Bahria Enclave, Islamabad offers 243 m\u00b2 of modern living space with elevator, balcony, gym.",
+    "highlights": [
+      "Elevator",
+      "Balcony",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P069",
+    "description": "This 5-bedroom villa in Canal Road, Faisalabad offers 107 m\u00b2 of modern living space with smart security, swimming pool, garden.",
+    "highlights": [
+      "Smart Security",
+      "Swimming Pool",
+      "Garden"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P070",
+    "description": "This 6-bedroom villa in DHA Phase 6, Lahore offers 255 m\u00b2 of modern living space with cctv, solar panels, elevator.",
+    "highlights": [
+      "CCTV",
+      "Solar Panels",
+      "Elevator"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P071",
+    "description": "This 5-bedroom villa in Gulshan-e-Iqbal, Karachi offers 83 m\u00b2 of modern living space with balcony, garage, swimming pool.",
+    "highlights": [
+      "Balcony",
+      "Garage",
+      "Swimming Pool"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P072",
+    "description": "This 5-bedroom smart-home in Hayatabad, Peshawar offers 104 m\u00b2 of modern living space with servant quarter, gym, balcony.",
+    "highlights": [
+      "Servant Quarter",
+      "Gym",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P073",
+    "description": "This 6-bedroom house in G-11, Islamabad offers 121 m\u00b2 of modern living space with garden, garage, gym.",
+    "highlights": [
+      "Garden",
+      "Garage",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P074",
+    "description": "This 4-bedroom house in University Town, Peshawar offers 109 m\u00b2 of modern living space with garage, smart security, solar panels.",
+    "highlights": [
+      "Garage",
+      "Smart Security",
+      "Solar Panels"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P075",
+    "description": "This 6-bedroom smart-home in G-11, Islamabad offers 169 m\u00b2 of modern living space with solar panels, balcony, cctv.",
+    "highlights": [
+      "Solar Panels",
+      "Balcony",
+      "CCTV"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P076",
+    "description": "This 2-bedroom villa in Hayatabad, Peshawar offers 265 m\u00b2 of modern living space with smart security, cctv, garage.",
+    "highlights": [
+      "Smart Security",
+      "CCTV",
+      "Garage"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P077",
+    "description": "This 3-bedroom apartment in F-10, Islamabad offers 70 m\u00b2 of modern living space with smart security, elevator, gym.",
+    "highlights": [
+      "Smart Security",
+      "Elevator",
+      "Gym"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P078",
+    "description": "This 5-bedroom smart-home in Gulshan-e-Iqbal, Karachi offers 105 m\u00b2 of modern living space with garden, smart security, balcony.",
+    "highlights": [
+      "Garden",
+      "Smart Security",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P079",
+    "description": "This 6-bedroom villa in Bahria Town, Lahore offers 91 m\u00b2 of modern living space with elevator, gym, garden.",
+    "highlights": [
+      "Elevator",
+      "Gym",
+      "Garden"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P080",
+    "description": "This 2-bedroom villa in G-11, Islamabad offers 144 m\u00b2 of modern living space with solar panels, smart security, balcony.",
+    "highlights": [
+      "Solar Panels",
+      "Smart Security",
+      "Balcony"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P081",
+    "description": "This 5-bedroom villa in Hayatabad, Peshawar offers 206 m\u00b2 of modern living space with elevator, solar panels, balcony.",
+    "highlights": [
+      "Elevator",
+      "Solar Panels",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P082",
+    "description": "This 3-bedroom villa in Chaklala, Rawalpindi offers 156 m\u00b2 of modern living space with elevator, smart security, balcony.",
+    "highlights": [
+      "Elevator",
+      "Smart Security",
+      "Balcony"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P083",
+    "description": "This 5-bedroom house in G-11, Islamabad offers 254 m\u00b2 of modern living space with servant quarter, elevator, smart security.",
+    "highlights": [
+      "Servant Quarter",
+      "Elevator",
+      "Smart Security"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P084",
+    "description": "This 6-bedroom house in Madina Town, Faisalabad offers 184 m\u00b2 of modern living space with garage, balcony, gym.",
+    "highlights": [
+      "Garage",
+      "Balcony",
+      "Gym"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P085",
+    "description": "This 3-bedroom apartment in University Town, Peshawar offers 182 m\u00b2 of modern living space with smart security, balcony, swimming pool.",
+    "highlights": [
+      "Smart Security",
+      "Balcony",
+      "Swimming Pool"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P086",
+    "description": "This 2-bedroom house in Canal Road, Faisalabad offers 197 m\u00b2 of modern living space with solar panels, smart security, garage.",
+    "highlights": [
+      "Solar Panels",
+      "Smart Security",
+      "Garage"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P087",
+    "description": "This 2-bedroom smart-home in Bahria Enclave, Islamabad offers 280 m\u00b2 of modern living space with swimming pool, smart security, servant quarter.",
+    "highlights": [
+      "Swimming Pool",
+      "Smart Security",
+      "Servant Quarter"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P088",
+    "description": "This 5-bedroom villa in DHA Phase 6, Lahore offers 254 m\u00b2 of modern living space with cctv, elevator, balcony.",
+    "highlights": [
+      "CCTV",
+      "Elevator",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P089",
+    "description": "This 3-bedroom smart-home in DHA Phase 6, Lahore offers 282 m\u00b2 of modern living space with garden, garage, smart security.",
+    "highlights": [
+      "Garden",
+      "Garage",
+      "Smart Security"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P090",
+    "description": "This 4-bedroom apartment in Johar Town, Lahore offers 181 m\u00b2 of modern living space with elevator, smart security, solar panels.",
+    "highlights": [
+      "Elevator",
+      "Smart Security",
+      "Solar Panels"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P091",
+    "description": "This 2-bedroom apartment in Bahria Enclave, Islamabad offers 162 m\u00b2 of modern living space with swimming pool, balcony, garage.",
+    "highlights": [
+      "Swimming Pool",
+      "Balcony",
+      "Garage"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P092",
+    "description": "This 3-bedroom house in Bahria Enclave, Islamabad offers 270 m\u00b2 of modern living space with swimming pool, balcony, garden.",
+    "highlights": [
+      "Swimming Pool",
+      "Balcony",
+      "Garden"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P093",
+    "description": "This 4-bedroom villa in Bahria Enclave, Islamabad offers 253 m\u00b2 of modern living space with solar panels, smart security, elevator.",
+    "highlights": [
+      "Solar Panels",
+      "Smart Security",
+      "Elevator"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P094",
+    "description": "This 5-bedroom smart-home in Model Town, Multan offers 67 m\u00b2 of modern living space with solar panels, balcony, swimming pool.",
+    "highlights": [
+      "Solar Panels",
+      "Balcony",
+      "Swimming Pool"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P095",
+    "description": "This 2-bedroom smart-home in DHA, Multan offers 137 m\u00b2 of modern living space with solar panels, servant quarter, garden.",
+    "highlights": [
+      "Solar Panels",
+      "Servant Quarter",
+      "Garden"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P096",
+    "description": "This 2-bedroom apartment in F-10, Islamabad offers 126 m\u00b2 of modern living space with smart security, servant quarter, solar panels.",
+    "highlights": [
+      "Smart Security",
+      "Servant Quarter",
+      "Solar Panels"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P097",
+    "description": "This 4-bedroom smart-home in Model Town, Multan offers 191 m\u00b2 of modern living space with smart security, gym, balcony.",
+    "highlights": [
+      "Smart Security",
+      "Gym",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P098",
+    "description": "This 4-bedroom villa in Cantt, Peshawar offers 224 m\u00b2 of modern living space with gym, cctv, balcony.",
+    "highlights": [
+      "Gym",
+      "CCTV",
+      "Balcony"
+    ],
+    "idealFor": "Families"
+  },
+  {
+    "propertyId": "P099",
+    "description": "This 3-bedroom house in People's Colony, Faisalabad offers 137 m\u00b2 of modern living space with balcony, gym, smart security.",
+    "highlights": [
+      "Balcony",
+      "Gym",
+      "Smart Security"
+    ],
+    "idealFor": "Couples and small families"
+  },
+  {
+    "propertyId": "P100",
+    "description": "This 3-bedroom smart-home in DHA, Multan offers 76 m\u00b2 of modern living space with smart security, servant quarter, balcony.",
+    "highlights": [
+      "Smart Security",
+      "Servant Quarter",
+      "Balcony"
+    ],
+    "idealFor": "Couples and small families"
+  }
+]

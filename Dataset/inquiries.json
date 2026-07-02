@@ -1,0 +1,402 @@
+[
+  {
+    "inquiryId": "I001",
+    "propertyId": "P052",
+    "budget": 177486,
+    "location": "Karachi",
+    "timeline": "Within 1 month",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I002",
+    "propertyId": "P030",
+    "budget": 304864,
+    "location": "Islamabad",
+    "timeline": "Just browsing",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I003",
+    "propertyId": "P077",
+    "budget": 145423,
+    "location": "Islamabad",
+    "timeline": "Within 1 month",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I004",
+    "propertyId": "P067",
+    "budget": 293340,
+    "location": "Faisalabad",
+    "timeline": "6 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I005",
+    "propertyId": "P070",
+    "budget": 384442,
+    "location": "Lahore",
+    "timeline": "Within 1 month",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I006",
+    "propertyId": "P098",
+    "budget": 290953,
+    "location": "Peshawar",
+    "timeline": "Just browsing",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I007",
+    "propertyId": "P067",
+    "budget": 302230,
+    "location": "Faisalabad",
+    "timeline": "Just browsing",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I008",
+    "propertyId": "P059",
+    "budget": 245410,
+    "location": "Faisalabad",
+    "timeline": "6 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I009",
+    "propertyId": "P031",
+    "budget": 206468,
+    "location": "Karachi",
+    "timeline": "6 months",
+    "message": "Please contact me regarding this property."
+  },
+  {
+    "inquiryId": "I010",
+    "propertyId": "P022",
+    "budget": 200270,
+    "location": "Faisalabad",
+    "timeline": "6 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I011",
+    "propertyId": "P069",
+    "budget": 252503,
+    "location": "Faisalabad",
+    "timeline": "Just browsing",
+    "message": "Please contact me regarding this property."
+  },
+  {
+    "inquiryId": "I012",
+    "propertyId": "P081",
+    "budget": 289829,
+    "location": "Peshawar",
+    "timeline": "Within 3 months",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I013",
+    "propertyId": "P084",
+    "budget": 224326,
+    "location": "Faisalabad",
+    "timeline": "Within 3 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I014",
+    "propertyId": "P040",
+    "budget": 220573,
+    "location": "Rawalpindi",
+    "timeline": "Just browsing",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I015",
+    "propertyId": "P007",
+    "budget": 208761,
+    "location": "Peshawar",
+    "timeline": "Just browsing",
+    "message": "Please contact me regarding this property."
+  },
+  {
+    "inquiryId": "I016",
+    "propertyId": "P029",
+    "budget": 130803,
+    "location": "Karachi",
+    "timeline": "Just browsing",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I017",
+    "propertyId": "P037",
+    "budget": 185571,
+    "location": "Peshawar",
+    "timeline": "6 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I018",
+    "propertyId": "P076",
+    "budget": 282719,
+    "location": "Peshawar",
+    "timeline": "Just browsing",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I019",
+    "propertyId": "P010",
+    "budget": 333103,
+    "location": "Peshawar",
+    "timeline": "Just browsing",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I020",
+    "propertyId": "P062",
+    "budget": 313556,
+    "location": "Faisalabad",
+    "timeline": "Within 3 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I021",
+    "propertyId": "P035",
+    "budget": 223461,
+    "location": "Rawalpindi",
+    "timeline": "Just browsing",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I022",
+    "propertyId": "P026",
+    "budget": 262565,
+    "location": "Peshawar",
+    "timeline": "6 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I023",
+    "propertyId": "P013",
+    "budget": 294559,
+    "location": "Multan",
+    "timeline": "Within 3 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I024",
+    "propertyId": "P062",
+    "budget": 301686,
+    "location": "Faisalabad",
+    "timeline": "Just browsing",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I025",
+    "propertyId": "P002",
+    "budget": 135447,
+    "location": "Peshawar",
+    "timeline": "Within 3 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I026",
+    "propertyId": "P006",
+    "budget": 205942,
+    "location": "Faisalabad",
+    "timeline": "Within 1 month",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I027",
+    "propertyId": "P002",
+    "budget": 131368,
+    "location": "Peshawar",
+    "timeline": "Just browsing",
+    "message": "Please contact me regarding this property."
+  },
+  {
+    "inquiryId": "I028",
+    "propertyId": "P025",
+    "budget": 147971,
+    "location": "Multan",
+    "timeline": "6 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I029",
+    "propertyId": "P020",
+    "budget": 220104,
+    "location": "Multan",
+    "timeline": "Within 3 months",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I030",
+    "propertyId": "P077",
+    "budget": 125760,
+    "location": "Islamabad",
+    "timeline": "Within 1 month",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I031",
+    "propertyId": "P043",
+    "budget": 150791,
+    "location": "Lahore",
+    "timeline": "Within 1 month",
+    "message": "Please contact me regarding this property."
+  },
+  {
+    "inquiryId": "I032",
+    "propertyId": "P052",
+    "budget": 188098,
+    "location": "Karachi",
+    "timeline": "6 months",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I033",
+    "propertyId": "P093",
+    "budget": 294740,
+    "location": "Islamabad",
+    "timeline": "6 months",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I034",
+    "propertyId": "P093",
+    "budget": 297261,
+    "location": "Islamabad",
+    "timeline": "Within 3 months",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I035",
+    "propertyId": "P057",
+    "budget": 277382,
+    "location": "Karachi",
+    "timeline": "Within 1 month",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I036",
+    "propertyId": "P091",
+    "budget": 195913,
+    "location": "Islamabad",
+    "timeline": "Within 1 month",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I037",
+    "propertyId": "P077",
+    "budget": 116056,
+    "location": "Islamabad",
+    "timeline": "Just browsing",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I038",
+    "propertyId": "P084",
+    "budget": 216256,
+    "location": "Faisalabad",
+    "timeline": "Within 3 months",
+    "message": "Please contact me regarding this property."
+  },
+  {
+    "inquiryId": "I039",
+    "propertyId": "P088",
+    "budget": 355961,
+    "location": "Lahore",
+    "timeline": "6 months",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I040",
+    "propertyId": "P021",
+    "budget": 334644,
+    "location": "Lahore",
+    "timeline": "Within 1 month",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I041",
+    "propertyId": "P013",
+    "budget": 257866,
+    "location": "Multan",
+    "timeline": "Within 3 months",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I042",
+    "propertyId": "P076",
+    "budget": 311815,
+    "location": "Peshawar",
+    "timeline": "Just browsing",
+    "message": "Please contact me regarding this property."
+  },
+  {
+    "inquiryId": "I043",
+    "propertyId": "P089",
+    "budget": 330714,
+    "location": "Lahore",
+    "timeline": "Within 1 month",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I044",
+    "propertyId": "P076",
+    "budget": 285781,
+    "location": "Peshawar",
+    "timeline": "Within 1 month",
+    "message": "I am ready to buy and would like a viewing."
+  },
+  {
+    "inquiryId": "I045",
+    "propertyId": "P058",
+    "budget": 248606,
+    "location": "Multan",
+    "timeline": "Just browsing",
+    "message": "Need more details before making a decision."
+  },
+  {
+    "inquiryId": "I046",
+    "propertyId": "P066",
+    "budget": 215229,
+    "location": "Faisalabad",
+    "timeline": "Within 3 months",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I047",
+    "propertyId": "P079",
+    "budget": 238827,
+    "location": "Lahore",
+    "timeline": "Within 3 months",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I048",
+    "propertyId": "P040",
+    "budget": 244344,
+    "location": "Rawalpindi",
+    "timeline": "Within 1 month",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I049",
+    "propertyId": "P065",
+    "budget": 382593,
+    "location": "Multan",
+    "timeline": "Within 1 month",
+    "message": "Just exploring options."
+  },
+  {
+    "inquiryId": "I050",
+    "propertyId": "P016",
+    "budget": 170936,
+    "location": "Lahore",
+    "timeline": "Within 1 month",
+    "message": "I am ready to buy and would like a viewing."
+  }
+]
