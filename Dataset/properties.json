@@ -2,7 +2,7 @@
   {
     "propertyId": "P001",
     "title": "Apartment in DHA Phase 6",
-    "price": 253600,
+    "price": 249835,
     "size": 148,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -10,18 +10,12 @@
     "location": "DHA Phase 6",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Balcony",
-      "Gym",
-      "Smart Security",
-      "Garage"
-    ]
+    "features": "['Servant Quarter', 'Balcony', 'Gym', 'Smart Security', 'Garage']"
   },
   {
     "propertyId": "P002",
     "title": "Apartment in University Town",
-    "price": 133400,
+    "price": 128928,
     "size": 62,
     "bedrooms": 4,
     "bathrooms": 4,
@@ -29,18 +23,12 @@
     "location": "University Town",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Garage",
-      "Smart Security",
-      "Balcony",
-      "Garden",
-      "Solar Panels"
-    ]
+    "features": "['Garage', 'Smart Security', 'Balcony', 'Garden', 'Solar Panels']"
   },
   {
     "propertyId": "P003",
     "title": "Apartment in People's Colony",
-    "price": 150200,
+    "price": 153295,
     "size": 86,
     "bedrooms": 4,
     "bathrooms": 5,
@@ -48,16 +36,12 @@
     "location": "People's Colony",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "CCTV",
-      "Garage",
-      "Servant Quarter"
-    ]
+    "features": "['CCTV', 'Garage', 'Servant Quarter']"
   },
   {
     "propertyId": "P004",
     "title": "Villa in Bahria Town",
-    "price": 272800,
+    "price": 291311,
     "size": 154,
     "bedrooms": 5,
     "bathrooms": 5,
@@ -65,17 +49,12 @@
     "location": "Bahria Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Balcony",
-      "Elevator",
-      "CCTV",
-      "Swimming Pool"
-    ]
+    "features": "['Balcony', 'Elevator', 'CCTV', 'Swimming Pool']"
   },
   {
     "propertyId": "P005",
     "title": "Villa in Madina Town",
-    "price": 305700,
+    "price": 300115,
     "size": 251,
     "bedrooms": 4,
     "bathrooms": 2,
@@ -83,19 +62,12 @@
     "location": "Madina Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Garage",
-      "Balcony",
-      "Elevator",
-      "CCTV",
-      "Smart Security",
-      "Gym"
-    ]
+    "features": "['Garage', 'Balcony', 'Elevator', 'CCTV', 'Smart Security', 'Gym']"
   },
   {
     "propertyId": "P006",
     "title": "Apartment in Madina Town",
-    "price": 219500,
+    "price": 219649,
     "size": 135,
     "bedrooms": 5,
     "bathrooms": 3,
@@ -103,19 +75,12 @@
     "location": "Madina Town",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Balcony",
-      "Elevator",
-      "Smart Security",
-      "Gym",
-      "CCTV",
-      "Swimming Pool"
-    ]
+    "features": "['Balcony', 'Elevator', 'Smart Security', 'Gym', 'CCTV', 'Swimming Pool']"
   },
   {
     "propertyId": "P007",
     "title": "House in Cantt",
-    "price": 179300,
+    "price": 211379,
     "size": 99,
     "bedrooms": 6,
     "bathrooms": 3,
@@ -123,19 +88,12 @@
     "location": "Cantt",
     "type": "house",
     "status": "available",
-    "features": [
-      "Balcony",
-      "Garden",
-      "CCTV",
-      "Servant Quarter",
-      "Garage",
-      "Elevator"
-    ]
+    "features": "['Balcony', 'Garden', 'CCTV', 'Servant Quarter', 'Garage', 'Elevator']"
   },
   {
     "propertyId": "P008",
     "title": "Villa in Hayatabad",
-    "price": 357300,
+    "price": 375149,
     "size": 289,
     "bedrooms": 4,
     "bathrooms": 2,
@@ -143,18 +101,12 @@
     "location": "Hayatabad",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Swimming Pool",
-      "Gym",
-      "Elevator",
-      "Smart Security"
-    ]
+    "features": "['Solar Panels', 'Swimming Pool', 'Gym', 'Elevator', 'Smart Security']"
   },
   {
     "propertyId": "P009",
     "title": "Apartment in Gulshan-e-Iqbal",
-    "price": 238800,
+    "price": 234134,
     "size": 184,
     "bedrooms": 6,
     "bathrooms": 3,
@@ -162,16 +114,12 @@
     "location": "Gulshan-e-Iqbal",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "CCTV",
-      "Garden",
-      "Balcony"
-    ]
+    "features": "['CCTV', 'Garden', 'Balcony']"
   },
   {
     "propertyId": "P010",
     "title": "Villa in Hayatabad",
-    "price": 339300,
+    "price": 349750,
     "size": 249,
     "bedrooms": 5,
     "bathrooms": 3,
@@ -179,19 +127,12 @@
     "location": "Hayatabad",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Garage",
-      "Servant Quarter",
-      "Swimming Pool",
-      "Gym",
-      "Balcony"
-    ]
+    "features": "['Smart Security', 'Garage', 'Servant Quarter', 'Swimming Pool', 'Gym', 'Balcony']"
   },
   {
     "propertyId": "P011",
     "title": "Villa in Johar Town",
-    "price": 241300,
+    "price": 219240,
     "size": 159,
     "bedrooms": 4,
     "bathrooms": 4,
@@ -199,17 +140,12 @@
     "location": "Johar Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Garden",
-      "Gym",
-      "Balcony"
-    ]
+    "features": "['Solar Panels', 'Garden', 'Gym', 'Balcony']"
   },
   {
     "propertyId": "P012",
     "title": "Villa in DHA",
-    "price": 323500,
+    "price": 314248,
     "size": 155,
     "bedrooms": 5,
     "bathrooms": 5,
@@ -217,18 +153,12 @@
     "location": "DHA",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Swimming Pool",
-      "Servant Quarter",
-      "Gym",
-      "Solar Panels",
-      "Balcony"
-    ]
+    "features": "['Swimming Pool', 'Servant Quarter', 'Gym', 'Solar Panels', 'Balcony']"
   },
   {
     "propertyId": "P013",
     "title": "House in Model Town",
-    "price": 279700,
+    "price": 284242,
     "size": 271,
     "bedrooms": 4,
     "bathrooms": 5,
@@ -236,19 +166,12 @@
     "location": "Model Town",
     "type": "house",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Solar Panels",
-      "Garage",
-      "Balcony",
-      "Gym",
-      "CCTV"
-    ]
+    "features": "['Servant Quarter', 'Solar Panels', 'Garage', 'Balcony', 'Gym', 'CCTV']"
   },
   {
     "propertyId": "P014",
     "title": "Apartment in Canal Road",
-    "price": 201300,
+    "price": 197897,
     "size": 109,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -256,19 +179,12 @@
     "location": "Canal Road",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Garage",
-      "CCTV",
-      "Gym",
-      "Swimming Pool",
-      "Garden",
-      "Solar Panels"
-    ]
+    "features": "['Garage', 'CCTV', 'Gym', 'Swimming Pool', 'Garden', 'Solar Panels']"
   },
   {
     "propertyId": "P015",
     "title": "Apartment in Clifton",
-    "price": 218300,
+    "price": 194168,
     "size": 169,
     "bedrooms": 5,
     "bathrooms": 5,
@@ -276,16 +192,12 @@
     "location": "Clifton",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Garden",
-      "Smart Security",
-      "CCTV"
-    ]
+    "features": "['Garden', 'Smart Security', 'CCTV']"
   },
   {
     "propertyId": "P016",
     "title": "Smart-Home in Johar Town",
-    "price": 195200,
+    "price": 191027,
     "size": 86,
     "bedrooms": 6,
     "bathrooms": 5,
@@ -293,19 +205,12 @@
     "location": "Johar Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Gym",
-      "Balcony",
-      "Servant Quarter",
-      "CCTV",
-      "Swimming Pool",
-      "Elevator"
-    ]
+    "features": "['Gym', 'Balcony', 'Servant Quarter', 'CCTV', 'Swimming Pool', 'Elevator']"
   },
   {
     "propertyId": "P017",
     "title": "Apartment in Bahria Town",
-    "price": 260400,
+    "price": 244298,
     "size": 272,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -313,19 +218,12 @@
     "location": "Bahria Town",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Elevator",
-      "Gym",
-      "Solar Panels",
-      "CCTV",
-      "Garage"
-    ]
+    "features": "['Smart Security', 'Elevator', 'Gym', 'Solar Panels', 'CCTV', 'Garage']"
   },
   {
     "propertyId": "P018",
     "title": "Smart-Home in Bahria Enclave",
-    "price": 241200,
+    "price": 236398,
     "size": 216,
     "bedrooms": 4,
     "bathrooms": 2,
@@ -333,19 +231,12 @@
     "location": "Bahria Enclave",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Balcony",
-      "CCTV",
-      "Garage",
-      "Servant Quarter",
-      "Smart Security",
-      "Solar Panels"
-    ]
+    "features": "['Balcony', 'CCTV', 'Garage', 'Servant Quarter', 'Smart Security', 'Solar Panels']"
   },
   {
     "propertyId": "P019",
     "title": "Apartment in Hayatabad",
-    "price": 192200,
+    "price": 190871,
     "size": 96,
     "bedrooms": 5,
     "bathrooms": 2,
@@ -353,18 +244,12 @@
     "location": "Hayatabad",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Gym",
-      "Swimming Pool",
-      "Elevator",
-      "Servant Quarter",
-      "Garage"
-    ]
+    "features": "['Gym', 'Swimming Pool', 'Elevator', 'Servant Quarter', 'Garage']"
   },
   {
     "propertyId": "P020",
     "title": "Apartment in DHA",
-    "price": 227700,
+    "price": 214421,
     "size": 111,
     "bedrooms": 5,
     "bathrooms": 2,
@@ -372,17 +257,12 @@
     "location": "DHA",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Garden",
-      "Garage",
-      "Solar Panels"
-    ]
+    "features": "['Elevator', 'Garden', 'Garage', 'Solar Panels']"
   },
   {
     "propertyId": "P021",
     "title": "House in DHA Phase 6",
-    "price": 311600,
+    "price": 345330,
     "size": 238,
     "bedrooms": 2,
     "bathrooms": 4,
@@ -390,18 +270,12 @@
     "location": "DHA Phase 6",
     "type": "house",
     "status": "available",
-    "features": [
-      "Swimming Pool",
-      "Smart Security",
-      "Solar Panels",
-      "Balcony",
-      "Garden"
-    ]
+    "features": "['Swimming Pool', 'Smart Security', 'Solar Panels', 'Balcony', 'Garden']"
   },
   {
     "propertyId": "P022",
     "title": "Smart-Home in Madina Town",
-    "price": 229500,
+    "price": 219116,
     "size": 185,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -409,19 +283,12 @@
     "location": "Madina Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "CCTV",
-      "Balcony",
-      "Garage",
-      "Solar Panels",
-      "Smart Security",
-      "Servant Quarter"
-    ]
+    "features": "['CCTV', 'Balcony', 'Garage', 'Solar Panels', 'Smart Security', 'Servant Quarter']"
   },
   {
     "propertyId": "P023",
     "title": "House in F-10",
-    "price": 140400,
+    "price": 152191,
     "size": 72,
     "bedrooms": 4,
     "bathrooms": 5,
@@ -429,18 +296,12 @@
     "location": "F-10",
     "type": "house",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Balcony",
-      "CCTV",
-      "Garden",
-      "Garage"
-    ]
+    "features": "['Elevator', 'Balcony', 'CCTV', 'Garden', 'Garage']"
   },
   {
     "propertyId": "P024",
     "title": "Apartment in DHA",
-    "price": 324200,
+    "price": 285271,
     "size": 256,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -448,17 +309,12 @@
     "location": "DHA",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Servant Quarter",
-      "Swimming Pool",
-      "Gym"
-    ]
+    "features": "['Elevator', 'Servant Quarter', 'Swimming Pool', 'Gym']"
   },
   {
     "propertyId": "P025",
     "title": "House in Model Town",
-    "price": 168000,
+    "price": 167207,
     "size": 140,
     "bedrooms": 2,
     "bathrooms": 4,
@@ -466,17 +322,12 @@
     "location": "Model Town",
     "type": "house",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Elevator",
-      "CCTV",
-      "Balcony"
-    ]
+    "features": "['Solar Panels', 'Elevator', 'CCTV', 'Balcony']"
   },
   {
     "propertyId": "P026",
     "title": "Villa in University Town",
-    "price": 254900,
+    "price": 274120,
     "size": 207,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -484,16 +335,12 @@
     "location": "University Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Garden",
-      "Smart Security",
-      "Balcony"
-    ]
+    "features": "['Garden', 'Smart Security', 'Balcony']"
   },
   {
     "propertyId": "P027",
     "title": "Villa in Bahria Town",
-    "price": 226900,
+    "price": 203306,
     "size": 117,
     "bedrooms": 3,
     "bathrooms": 2,
@@ -501,19 +348,12 @@
     "location": "Bahria Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Garden",
-      "CCTV",
-      "Gym",
-      "Solar Panels",
-      "Servant Quarter",
-      "Swimming Pool"
-    ]
+    "features": "['Garden', 'CCTV', 'Gym', 'Solar Panels', 'Servant Quarter', 'Swimming Pool']"
   },
   {
     "propertyId": "P028",
     "title": "Smart-Home in Chaklala",
-    "price": 207800,
+    "price": 207954,
     "size": 154,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -521,18 +361,12 @@
     "location": "Chaklala",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Elevator",
-      "Garage",
-      "Solar Panels",
-      "Garden"
-    ]
+    "features": "['Smart Security', 'Elevator', 'Garage', 'Solar Panels', 'Garden']"
   },
   {
     "propertyId": "P029",
     "title": "Smart-Home in Gulshan-e-Iqbal",
-    "price": 134800,
+    "price": 130739,
     "size": 64,
     "bedrooms": 4,
     "bathrooms": 2,
@@ -540,18 +374,12 @@
     "location": "Gulshan-e-Iqbal",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Gym",
-      "Garage",
-      "Garden",
-      "Elevator",
-      "Servant Quarter"
-    ]
+    "features": "['Gym', 'Garage', 'Garden', 'Elevator', 'Servant Quarter']"
   },
   {
     "propertyId": "P030",
     "title": "Villa in G-11",
-    "price": 301500,
+    "price": 292195,
     "size": 245,
     "bedrooms": 4,
     "bathrooms": 5,
@@ -559,16 +387,12 @@
     "location": "G-11",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Gym",
-      "Garage",
-      "Servant Quarter"
-    ]
+    "features": "['Gym', 'Garage', 'Servant Quarter']"
   },
   {
     "propertyId": "P031",
     "title": "Smart-Home in DHA",
-    "price": 230100,
+    "price": 209388,
     "size": 93,
     "bedrooms": 4,
     "bathrooms": 4,
@@ -576,17 +400,12 @@
     "location": "DHA",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Swimming Pool",
-      "Garage",
-      "Smart Security"
-    ]
+    "features": "['Servant Quarter', 'Swimming Pool', 'Garage', 'Smart Security']"
   },
   {
     "propertyId": "P032",
     "title": "Apartment in Cantt",
-    "price": 301100,
+    "price": 335112,
     "size": 273,
     "bedrooms": 6,
     "bathrooms": 5,
@@ -594,16 +413,12 @@
     "location": "Cantt",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Gym",
-      "Balcony",
-      "Servant Quarter"
-    ]
+    "features": "['Gym', 'Balcony', 'Servant Quarter']"
   },
   {
     "propertyId": "P033",
     "title": "Villa in Clifton",
-    "price": 237600,
+    "price": 228909,
     "size": 118,
     "bedrooms": 4,
     "bathrooms": 3,
@@ -611,19 +426,12 @@
     "location": "Clifton",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Garage",
-      "CCTV",
-      "Gym",
-      "Swimming Pool",
-      "Servant Quarter",
-      "Balcony"
-    ]
+    "features": "['Garage', 'CCTV', 'Gym', 'Swimming Pool', 'Servant Quarter', 'Balcony']"
   },
   {
     "propertyId": "P034",
     "title": "Villa in Cantt",
-    "price": 313000,
+    "price": 296925,
     "size": 290,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -631,19 +439,12 @@
     "location": "Cantt",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Garden",
-      "Garage",
-      "CCTV",
-      "Servant Quarter",
-      "Balcony"
-    ]
+    "features": "['Solar Panels', 'Garden', 'Garage', 'CCTV', 'Servant Quarter', 'Balcony']"
   },
   {
     "propertyId": "P035",
     "title": "Villa in Chaklala",
-    "price": 250700,
+    "price": 255717,
     "size": 201,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -651,16 +452,12 @@
     "location": "Chaklala",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Garden",
-      "Garage",
-      "Gym"
-    ]
+    "features": "['Garden', 'Garage', 'Gym']"
   },
   {
     "propertyId": "P036",
     "title": "Villa in Bahria Enclave",
-    "price": 205200,
+    "price": 202568,
     "size": 86,
     "bedrooms": 3,
     "bathrooms": 5,
@@ -668,19 +465,12 @@
     "location": "Bahria Enclave",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Garage",
-      "Swimming Pool",
-      "CCTV",
-      "Smart Security",
-      "Garden"
-    ]
+    "features": "['Solar Panels', 'Garage', 'Swimming Pool', 'CCTV', 'Smart Security', 'Garden']"
   },
   {
     "propertyId": "P037",
     "title": "Villa in Cantt",
-    "price": 205800,
+    "price": 202113,
     "size": 94,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -688,19 +478,12 @@
     "location": "Cantt",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Gym",
-      "Elevator",
-      "Garage",
-      "Balcony",
-      "Servant Quarter"
-    ]
+    "features": "['Smart Security', 'Gym', 'Elevator', 'Garage', 'Balcony', 'Servant Quarter']"
   },
   {
     "propertyId": "P038",
     "title": "Smart-Home in Madina Town",
-    "price": 238700,
+    "price": 208057,
     "size": 191,
     "bedrooms": 3,
     "bathrooms": 2,
@@ -708,18 +491,12 @@
     "location": "Madina Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Garden",
-      "Swimming Pool",
-      "Solar Panels",
-      "Smart Security"
-    ]
+    "features": "['Servant Quarter', 'Garden', 'Swimming Pool', 'Solar Panels', 'Smart Security']"
   },
   {
     "propertyId": "P039",
     "title": "House in DHA",
-    "price": 252400,
+    "price": 238794,
     "size": 132,
     "bedrooms": 6,
     "bathrooms": 4,
@@ -727,16 +504,12 @@
     "location": "DHA",
     "type": "house",
     "status": "available",
-    "features": [
-      "Garage",
-      "Smart Security",
-      "Servant Quarter"
-    ]
+    "features": "['Garage', 'Smart Security', 'Servant Quarter']"
   },
   {
     "propertyId": "P040",
     "title": "Apartment in Satellite Town",
-    "price": 249900,
+    "price": 243005,
     "size": 257,
     "bedrooms": 2,
     "bathrooms": 3,
@@ -744,18 +517,12 @@
     "location": "Satellite Town",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Solar Panels",
-      "CCTV",
-      "Balcony",
-      "Garden"
-    ]
+    "features": "['Elevator', 'Solar Panels', 'CCTV', 'Balcony', 'Garden']"
   },
   {
     "propertyId": "P041",
     "title": "Apartment in DHA",
-    "price": 272300,
+    "price": 286185,
     "size": 189,
     "bedrooms": 4,
     "bathrooms": 4,
@@ -763,17 +530,12 @@
     "location": "DHA",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Servant Quarter",
-      "CCTV",
-      "Balcony"
-    ]
+    "features": "['Solar Panels', 'Servant Quarter', 'CCTV', 'Balcony']"
   },
   {
     "propertyId": "P042",
     "title": "Apartment in Johar Town",
-    "price": 291800,
+    "price": 305257,
     "size": 274,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -781,19 +543,12 @@
     "location": "Johar Town",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Garden",
-      "Balcony",
-      "Smart Security",
-      "CCTV",
-      "Gym"
-    ]
+    "features": "['Servant Quarter', 'Garden', 'Balcony', 'Smart Security', 'CCTV', 'Gym']"
   },
   {
     "propertyId": "P043",
     "title": "Smart-Home in Bahria Town",
-    "price": 147000,
+    "price": 133120,
     "size": 110,
     "bedrooms": 2,
     "bathrooms": 5,
@@ -801,17 +556,12 @@
     "location": "Bahria Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Balcony",
-      "Elevator",
-      "Smart Security"
-    ]
+    "features": "['Servant Quarter', 'Balcony', 'Elevator', 'Smart Security']"
   },
   {
     "propertyId": "P044",
     "title": "Smart-Home in University Town",
-    "price": 239100,
+    "price": 236257,
     "size": 163,
     "bedrooms": 5,
     "bathrooms": 2,
@@ -819,19 +569,12 @@
     "location": "University Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Balcony",
-      "Smart Security",
-      "Garden",
-      "Garage",
-      "Swimming Pool",
-      "Gym"
-    ]
+    "features": "['Balcony', 'Smart Security', 'Garden', 'Garage', 'Swimming Pool', 'Gym']"
   },
   {
     "propertyId": "P045",
     "title": "Villa in F-10",
-    "price": 226200,
+    "price": 208213,
     "size": 116,
     "bedrooms": 3,
     "bathrooms": 2,
@@ -839,16 +582,12 @@
     "location": "F-10",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Swimming Pool",
-      "Elevator",
-      "Garden"
-    ]
+    "features": "['Swimming Pool', 'Elevator', 'Garden']"
   },
   {
     "propertyId": "P046",
     "title": "Apartment in G-11",
-    "price": 229700,
+    "price": 226034,
     "size": 171,
     "bedrooms": 6,
     "bathrooms": 4,
@@ -856,17 +595,12 @@
     "location": "G-11",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Garage",
-      "Balcony",
-      "Gym",
-      "Solar Panels"
-    ]
+    "features": "['Garage', 'Balcony', 'Gym', 'Solar Panels']"
   },
   {
     "propertyId": "P047",
     "title": "Apartment in Cantt",
-    "price": 119000,
+    "price": 105815,
     "size": 70,
     "bedrooms": 2,
     "bathrooms": 3,
@@ -874,18 +608,12 @@
     "location": "Cantt",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Garden",
-      "Garage",
-      "Solar Panels",
-      "Elevator",
-      "Smart Security"
-    ]
+    "features": "['Garden', 'Garage', 'Solar Panels', 'Elevator', 'Smart Security']"
   },
   {
     "propertyId": "P048",
     "title": "House in Bahria Town",
-    "price": 163000,
+    "price": 162775,
     "size": 90,
     "bedrooms": 5,
     "bathrooms": 5,
@@ -893,17 +621,12 @@
     "location": "Bahria Town",
     "type": "house",
     "status": "available",
-    "features": [
-      "CCTV",
-      "Garden",
-      "Servant Quarter",
-      "Gym"
-    ]
+    "features": "['CCTV', 'Garden', 'Servant Quarter', 'Gym']"
   },
   {
     "propertyId": "P049",
     "title": "Smart-Home in DHA",
-    "price": 202600,
+    "price": 210953,
     "size": 118,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -911,18 +634,12 @@
     "location": "DHA",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "CCTV",
-      "Garden",
-      "Elevator",
-      "Smart Security",
-      "Gym"
-    ]
+    "features": "['CCTV', 'Garden', 'Elevator', 'Smart Security', 'Gym']"
   },
   {
     "propertyId": "P050",
     "title": "Smart-Home in F-10",
-    "price": 224900,
+    "price": 203485,
     "size": 157,
     "bedrooms": 4,
     "bathrooms": 2,
@@ -930,19 +647,12 @@
     "location": "F-10",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Swimming Pool",
-      "CCTV",
-      "Garden",
-      "Smart Security",
-      "Garage"
-    ]
+    "features": "['Servant Quarter', 'Swimming Pool', 'CCTV', 'Garden', 'Smart Security', 'Garage']"
   },
   {
     "propertyId": "P051",
     "title": "Villa in University Town",
-    "price": 223100,
+    "price": 229442,
     "size": 83,
     "bedrooms": 5,
     "bathrooms": 2,
@@ -950,16 +660,12 @@
     "location": "University Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Garage",
-      "Solar Panels",
-      "Swimming Pool"
-    ]
+    "features": "['Garage', 'Solar Panels', 'Swimming Pool']"
   },
   {
     "propertyId": "P052",
     "title": "House in Gulshan-e-Iqbal",
-    "price": 192600,
+    "price": 190922,
     "size": 118,
     "bedrooms": 6,
     "bathrooms": 4,
@@ -967,17 +673,12 @@
     "location": "Gulshan-e-Iqbal",
     "type": "house",
     "status": "available",
-    "features": [
-      "Garden",
-      "Smart Security",
-      "Elevator",
-      "Garage"
-    ]
+    "features": "['Garden', 'Smart Security', 'Elevator', 'Garage']"
   },
   {
     "propertyId": "P053",
     "title": "Apartment in Madina Town",
-    "price": 318000,
+    "price": 299644,
     "size": 290,
     "bedrooms": 4,
     "bathrooms": 4,
@@ -985,19 +686,12 @@
     "location": "Madina Town",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Garage",
-      "Swimming Pool",
-      "Garden",
-      "Servant Quarter",
-      "Balcony"
-    ]
+    "features": "['Elevator', 'Garage', 'Swimming Pool', 'Garden', 'Servant Quarter', 'Balcony']"
   },
   {
     "propertyId": "P054",
     "title": "Smart-Home in Clifton",
-    "price": 198600,
+    "price": 207747,
     "size": 148,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -1005,19 +699,12 @@
     "location": "Clifton",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Balcony",
-      "Garage",
-      "Servant Quarter",
-      "Garden",
-      "Swimming Pool"
-    ]
+    "features": "['Elevator', 'Balcony', 'Garage', 'Servant Quarter', 'Garden', 'Swimming Pool']"
   },
   {
     "propertyId": "P055",
     "title": "Smart-Home in University Town",
-    "price": 239900,
+    "price": 257085,
     "size": 207,
     "bedrooms": 2,
     "bathrooms": 4,
@@ -1025,17 +712,12 @@
     "location": "University Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Swimming Pool",
-      "Balcony",
-      "Smart Security"
-    ]
+    "features": "['Solar Panels', 'Swimming Pool', 'Balcony', 'Smart Security']"
   },
   {
     "propertyId": "P056",
     "title": "Smart-Home in Satellite Town",
-    "price": 207100,
+    "price": 212957,
     "size": 103,
     "bedrooms": 6,
     "bathrooms": 5,
@@ -1043,17 +725,12 @@
     "location": "Satellite Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Balcony",
-      "Swimming Pool",
-      "Elevator"
-    ]
+    "features": "['Solar Panels', 'Balcony', 'Swimming Pool', 'Elevator']"
   },
   {
     "propertyId": "P057",
     "title": "Smart-Home in Clifton",
-    "price": 281100,
+    "price": 281872,
     "size": 273,
     "bedrooms": 4,
     "bathrooms": 3,
@@ -1061,17 +738,12 @@
     "location": "Clifton",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Balcony",
-      "Garage",
-      "Gym",
-      "Servant Quarter"
-    ]
+    "features": "['Balcony', 'Garage', 'Gym', 'Servant Quarter']"
   },
   {
     "propertyId": "P058",
     "title": "Smart-Home in Cantt",
-    "price": 247100,
+    "price": 246306,
     "size": 253,
     "bedrooms": 2,
     "bathrooms": 5,
@@ -1079,17 +751,12 @@
     "location": "Cantt",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Balcony",
-      "Garden",
-      "Gym"
-    ]
+    "features": "['Servant Quarter', 'Balcony', 'Garden', 'Gym']"
   },
   {
     "propertyId": "P059",
     "title": "Villa in Madina Town",
-    "price": 237400,
+    "price": 232588,
     "size": 182,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -1097,16 +764,12 @@
     "location": "Madina Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Garden",
-      "Solar Panels",
-      "Balcony"
-    ]
+    "features": "['Garden', 'Solar Panels', 'Balcony']"
   },
   {
     "propertyId": "P060",
     "title": "Apartment in Hayatabad",
-    "price": 183800,
+    "price": 199811,
     "size": 84,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -1114,19 +777,12 @@
     "location": "Hayatabad",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Garage",
-      "Solar Panels",
-      "CCTV",
-      "Balcony",
-      "Garden",
-      "Swimming Pool"
-    ]
+    "features": "['Garage', 'Solar Panels', 'CCTV', 'Balcony', 'Garden', 'Swimming Pool']"
   },
   {
     "propertyId": "P061",
     "title": "Smart-Home in Gulshan-e-Iqbal",
-    "price": 237400,
+    "price": 222777,
     "size": 182,
     "bedrooms": 6,
     "bathrooms": 4,
@@ -1134,18 +790,12 @@
     "location": "Gulshan-e-Iqbal",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Garage",
-      "Elevator",
-      "Garden",
-      "Gym"
-    ]
+    "features": "['Solar Panels', 'Garage', 'Elevator', 'Garden', 'Gym']"
   },
   {
     "propertyId": "P062",
     "title": "Villa in Canal Road",
-    "price": 316000,
+    "price": 318777,
     "size": 280,
     "bedrooms": 3,
     "bathrooms": 5,
@@ -1153,18 +803,12 @@
     "location": "Canal Road",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Servant Quarter",
-      "Gym",
-      "Balcony",
-      "Elevator"
-    ]
+    "features": "['Solar Panels', 'Servant Quarter', 'Gym', 'Balcony', 'Elevator']"
   },
   {
     "propertyId": "P063",
     "title": "House in Johar Town",
-    "price": 243500,
+    "price": 236605,
     "size": 155,
     "bedrooms": 6,
     "bathrooms": 3,
@@ -1172,19 +816,12 @@
     "location": "Johar Town",
     "type": "house",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Garage",
-      "Garden",
-      "Balcony",
-      "Swimming Pool",
-      "Solar Panels"
-    ]
+    "features": "['Servant Quarter', 'Garage', 'Garden', 'Balcony', 'Swimming Pool', 'Solar Panels']"
   },
   {
     "propertyId": "P064",
     "title": "Apartment in F-10",
-    "price": 191000,
+    "price": 170726,
     "size": 80,
     "bedrooms": 6,
     "bathrooms": 4,
@@ -1192,19 +829,12 @@
     "location": "F-10",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Garden",
-      "Swimming Pool",
-      "Garage",
-      "Smart Security",
-      "Solar Panels",
-      "Elevator"
-    ]
+    "features": "['Garden', 'Swimming Pool', 'Garage', 'Smart Security', 'Solar Panels', 'Elevator']"
   },
   {
     "propertyId": "P065",
     "title": "Villa in DHA",
-    "price": 354600,
+    "price": 379594,
     "size": 228,
     "bedrooms": 3,
     "bathrooms": 3,
@@ -1212,19 +842,12 @@
     "location": "DHA",
     "type": "villa",
     "status": "available",
-    "features": [
-      "CCTV",
-      "Solar Panels",
-      "Swimming Pool",
-      "Garden",
-      "Servant Quarter",
-      "Gym"
-    ]
+    "features": "['CCTV', 'Solar Panels', 'Swimming Pool', 'Garden', 'Servant Quarter', 'Gym']"
   },
   {
     "propertyId": "P066",
     "title": "Villa in Madina Town",
-    "price": 236800,
+    "price": 259372,
     "size": 124,
     "bedrooms": 6,
     "bathrooms": 5,
@@ -1232,18 +855,12 @@
     "location": "Madina Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Solar Panels",
-      "Elevator",
-      "Garage",
-      "Smart Security"
-    ]
+    "features": "['Servant Quarter', 'Solar Panels', 'Elevator', 'Garage', 'Smart Security']"
   },
   {
     "propertyId": "P067",
     "title": "Villa in People's Colony",
-    "price": 322500,
+    "price": 327683,
     "size": 275,
     "bedrooms": 4,
     "bathrooms": 2,
@@ -1251,16 +868,12 @@
     "location": "People's Colony",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Gym",
-      "Solar Panels",
-      "Garage"
-    ]
+    "features": "['Gym', 'Solar Panels', 'Garage']"
   },
   {
     "propertyId": "P068",
     "title": "Apartment in Bahria Enclave",
-    "price": 280100,
+    "price": 312140,
     "size": 243,
     "bedrooms": 6,
     "bathrooms": 3,
@@ -1268,17 +881,12 @@
     "location": "Bahria Enclave",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Balcony",
-      "Gym",
-      "CCTV"
-    ]
+    "features": "['Elevator', 'Balcony', 'Gym', 'CCTV']"
   },
   {
     "propertyId": "P069",
     "title": "Villa in Canal Road",
-    "price": 239900,
+    "price": 243142,
     "size": 107,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -1286,19 +894,12 @@
     "location": "Canal Road",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Swimming Pool",
-      "Garden",
-      "Balcony",
-      "Servant Quarter",
-      "Elevator"
-    ]
+    "features": "['Smart Security', 'Swimming Pool', 'Garden', 'Balcony', 'Servant Quarter', 'Elevator']"
   },
   {
     "propertyId": "P070",
     "title": "Villa in DHA Phase 6",
-    "price": 378500,
+    "price": 357819,
     "size": 255,
     "bedrooms": 6,
     "bathrooms": 2,
@@ -1306,18 +907,12 @@
     "location": "DHA Phase 6",
     "type": "villa",
     "status": "available",
-    "features": [
-      "CCTV",
-      "Solar Panels",
-      "Elevator",
-      "Servant Quarter",
-      "Garden"
-    ]
+    "features": "['CCTV', 'Solar Panels', 'Elevator', 'Servant Quarter', 'Garden']"
   },
   {
     "propertyId": "P071",
     "title": "Villa in Gulshan-e-Iqbal",
-    "price": 223100,
+    "price": 220822,
     "size": 83,
     "bedrooms": 5,
     "bathrooms": 5,
@@ -1325,18 +920,12 @@
     "location": "Gulshan-e-Iqbal",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Balcony",
-      "Garage",
-      "Swimming Pool",
-      "Garden",
-      "Smart Security"
-    ]
+    "features": "['Balcony', 'Garage', 'Swimming Pool', 'Garden', 'Smart Security']"
   },
   {
     "propertyId": "P072",
     "title": "Smart-Home in Hayatabad",
-    "price": 172800,
+    "price": 182220,
     "size": 104,
     "bedrooms": 5,
     "bathrooms": 3,
@@ -1344,17 +933,12 @@
     "location": "Hayatabad",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Gym",
-      "Balcony",
-      "Elevator"
-    ]
+    "features": "['Servant Quarter', 'Gym', 'Balcony', 'Elevator']"
   },
   {
     "propertyId": "P073",
     "title": "House in G-11",
-    "price": 194700,
+    "price": 193665,
     "size": 121,
     "bedrooms": 6,
     "bathrooms": 3,
@@ -1362,16 +946,12 @@
     "location": "G-11",
     "type": "house",
     "status": "available",
-    "features": [
-      "Garden",
-      "Garage",
-      "Gym"
-    ]
+    "features": "['Garden', 'Garage', 'Gym']"
   },
   {
     "propertyId": "P074",
     "title": "House in University Town",
-    "price": 191300,
+    "price": 211988,
     "size": 109,
     "bedrooms": 4,
     "bathrooms": 3,
@@ -1379,18 +959,12 @@
     "location": "University Town",
     "type": "house",
     "status": "available",
-    "features": [
-      "Garage",
-      "Smart Security",
-      "Solar Panels",
-      "Garden",
-      "Swimming Pool"
-    ]
+    "features": "['Garage', 'Smart Security', 'Solar Panels', 'Garden', 'Swimming Pool']"
   },
   {
     "propertyId": "P075",
     "title": "Smart-Home in G-11",
-    "price": 228300,
+    "price": 194628,
     "size": 169,
     "bedrooms": 6,
     "bathrooms": 4,
@@ -1398,19 +972,12 @@
     "location": "G-11",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Balcony",
-      "CCTV",
-      "Smart Security",
-      "Servant Quarter",
-      "Gym"
-    ]
+    "features": "['Solar Panels', 'Balcony', 'CCTV', 'Smart Security', 'Servant Quarter', 'Gym']"
   },
   {
     "propertyId": "P076",
     "title": "Villa in Hayatabad",
-    "price": 295500,
+    "price": 316690,
     "size": 265,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -1418,17 +985,12 @@
     "location": "Hayatabad",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "CCTV",
-      "Garage",
-      "Garden"
-    ]
+    "features": "['Smart Security', 'CCTV', 'Garage', 'Garden']"
   },
   {
     "propertyId": "P077",
     "title": "Apartment in F-10",
-    "price": 129000,
+    "price": 129778,
     "size": 70,
     "bedrooms": 3,
     "bathrooms": 4,
@@ -1436,19 +998,12 @@
     "location": "F-10",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Elevator",
-      "Gym",
-      "CCTV",
-      "Balcony",
-      "Garage"
-    ]
+    "features": "['Smart Security', 'Elevator', 'Gym', 'CCTV', 'Balcony', 'Garage']"
   },
   {
     "propertyId": "P078",
     "title": "Smart-Home in Gulshan-e-Iqbal",
-    "price": 173500,
+    "price": 182016,
     "size": 105,
     "bedrooms": 5,
     "bathrooms": 3,
@@ -1456,19 +1011,12 @@
     "location": "Gulshan-e-Iqbal",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Garden",
-      "Smart Security",
-      "Balcony",
-      "Elevator",
-      "Solar Panels",
-      "Garage"
-    ]
+    "features": "['Garden', 'Smart Security', 'Balcony', 'Elevator', 'Solar Panels', 'Garage']"
   },
   {
     "propertyId": "P079",
     "title": "Villa in Bahria Town",
-    "price": 238700,
+    "price": 237897,
     "size": 91,
     "bedrooms": 6,
     "bathrooms": 5,
@@ -1476,19 +1024,12 @@
     "location": "Bahria Town",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Gym",
-      "Garden",
-      "Garage",
-      "Swimming Pool",
-      "Servant Quarter"
-    ]
+    "features": "['Elevator', 'Gym', 'Garden', 'Garage', 'Swimming Pool', 'Servant Quarter']"
   },
   {
     "propertyId": "P080",
     "title": "Villa in G-11",
-    "price": 210800,
+    "price": 207423,
     "size": 144,
     "bedrooms": 2,
     "bathrooms": 2,
@@ -1496,19 +1037,12 @@
     "location": "G-11",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Smart Security",
-      "Balcony",
-      "Elevator",
-      "Gym",
-      "Servant Quarter"
-    ]
+    "features": "['Solar Panels', 'Smart Security', 'Balcony', 'Elevator', 'Gym', 'Servant Quarter']"
   },
   {
     "propertyId": "P081",
     "title": "Villa in Hayatabad",
-    "price": 284200,
+    "price": 285459,
     "size": 206,
     "bedrooms": 5,
     "bathrooms": 2,
@@ -1516,17 +1050,12 @@
     "location": "Hayatabad",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Solar Panels",
-      "Balcony",
-      "Gym"
-    ]
+    "features": "['Elevator', 'Solar Panels', 'Balcony', 'Gym']"
   },
   {
     "propertyId": "P082",
     "title": "Villa in Chaklala",
-    "price": 229200,
+    "price": 227254,
     "size": 156,
     "bedrooms": 3,
     "bathrooms": 2,
@@ -1534,19 +1063,12 @@
     "location": "Chaklala",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Smart Security",
-      "Balcony",
-      "Gym",
-      "Solar Panels",
-      "CCTV"
-    ]
+    "features": "['Elevator', 'Smart Security', 'Balcony', 'Gym', 'Solar Panels', 'CCTV']"
   },
   {
     "propertyId": "P083",
     "title": "House in G-11",
-    "price": 277800,
+    "price": 293866,
     "size": 254,
     "bedrooms": 5,
     "bathrooms": 4,
@@ -1554,17 +1076,12 @@
     "location": "G-11",
     "type": "house",
     "status": "available",
-    "features": [
-      "Servant Quarter",
-      "Elevator",
-      "Smart Security",
-      "Garage"
-    ]
+    "features": "['Servant Quarter', 'Elevator', 'Smart Security', 'Garage']"
   },
   {
     "propertyId": "P084",
     "title": "House in Madina Town",
-    "price": 238800,
+    "price": 235234,
     "size": 184,
     "bedrooms": 6,
     "bathrooms": 3,
@@ -1572,16 +1089,12 @@
     "location": "Madina Town",
     "type": "house",
     "status": "available",
-    "features": [
-      "Garage",
-      "Balcony",
-      "Gym"
-    ]
+    "features": "['Garage', 'Balcony', 'Gym']"
   },
   {
     "propertyId": "P085",
     "title": "Apartment in University Town",
-    "price": 232400,
+    "price": 219339,
     "size": 182,
     "bedrooms": 3,
     "bathrooms": 5,
@@ -1589,16 +1102,12 @@
     "location": "University Town",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Balcony",
-      "Swimming Pool"
-    ]
+    "features": "['Smart Security', 'Balcony', 'Swimming Pool']"
   },
   {
     "propertyId": "P086",
     "title": "House in Canal Road",
-    "price": 232900,
+    "price": 231600,
     "size": 197,
     "bedrooms": 2,
     "bathrooms": 4,
@@ -1606,19 +1115,12 @@
     "location": "Canal Road",
     "type": "house",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Smart Security",
-      "Garage",
-      "Swimming Pool",
-      "Balcony",
-      "Gym"
-    ]
+    "features": "['Solar Panels', 'Smart Security', 'Garage', 'Swimming Pool', 'Balcony', 'Gym']"
   },
   {
     "propertyId": "P087",
     "title": "Smart-Home in Bahria Enclave",
-    "price": 291000,
+    "price": 310769,
     "size": 280,
     "bedrooms": 2,
     "bathrooms": 3,
@@ -1626,16 +1128,12 @@
     "location": "Bahria Enclave",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Swimming Pool",
-      "Smart Security",
-      "Servant Quarter"
-    ]
+    "features": "['Swimming Pool', 'Smart Security', 'Servant Quarter']"
   },
   {
     "propertyId": "P088",
     "title": "Villa in DHA Phase 6",
-    "price": 367800,
+    "price": 374472,
     "size": 254,
     "bedrooms": 5,
     "bathrooms": 5,
@@ -1643,19 +1141,12 @@
     "location": "DHA Phase 6",
     "type": "villa",
     "status": "available",
-    "features": [
-      "CCTV",
-      "Elevator",
-      "Balcony",
-      "Smart Security",
-      "Garage",
-      "Servant Quarter"
-    ]
+    "features": "['CCTV', 'Elevator', 'Balcony', 'Smart Security', 'Garage', 'Servant Quarter']"
   },
   {
     "propertyId": "P089",
     "title": "Smart-Home in DHA Phase 6",
-    "price": 327400,
+    "price": 310219,
     "size": 282,
     "bedrooms": 3,
     "bathrooms": 4,
@@ -1663,18 +1154,12 @@
     "location": "DHA Phase 6",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Garden",
-      "Garage",
-      "Smart Security",
-      "Solar Panels",
-      "Elevator"
-    ]
+    "features": "['Garden', 'Garage', 'Smart Security', 'Solar Panels', 'Elevator']"
   },
   {
     "propertyId": "P090",
     "title": "Apartment in Johar Town",
-    "price": 216700,
+    "price": 211255,
     "size": 181,
     "bedrooms": 4,
     "bathrooms": 4,
@@ -1682,18 +1167,12 @@
     "location": "Johar Town",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Elevator",
-      "Smart Security",
-      "Solar Panels",
-      "Garage",
-      "Servant Quarter"
-    ]
+    "features": "['Elevator', 'Smart Security', 'Solar Panels', 'Garage', 'Servant Quarter']"
   },
   {
     "propertyId": "P091",
     "title": "Apartment in Bahria Enclave",
-    "price": 208400,
+    "price": 206042,
     "size": 162,
     "bedrooms": 2,
     "bathrooms": 4,
@@ -1701,16 +1180,12 @@
     "location": "Bahria Enclave",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Swimming Pool",
-      "Balcony",
-      "Garage"
-    ]
+    "features": "['Swimming Pool', 'Balcony', 'Garage']"
   },
   {
     "propertyId": "P092",
     "title": "House in Bahria Enclave",
-    "price": 294000,
+    "price": 317938,
     "size": 270,
     "bedrooms": 3,
     "bathrooms": 2,
@@ -1718,16 +1193,12 @@
     "location": "Bahria Enclave",
     "type": "house",
     "status": "available",
-    "features": [
-      "Swimming Pool",
-      "Balcony",
-      "Garden"
-    ]
+    "features": "['Swimming Pool', 'Balcony', 'Garden']"
   },
   {
     "propertyId": "P093",
     "title": "Villa in Bahria Enclave",
-    "price": 307100,
+    "price": 295877,
     "size": 253,
     "bedrooms": 4,
     "bathrooms": 3,
@@ -1735,19 +1206,12 @@
     "location": "Bahria Enclave",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Smart Security",
-      "Elevator",
-      "Gym",
-      "Garden",
-      "Balcony"
-    ]
+    "features": "['Solar Panels', 'Smart Security', 'Elevator', 'Gym', 'Garden', 'Balcony']"
   },
   {
     "propertyId": "P094",
     "title": "Smart-Home in Model Town",
-    "price": 171900,
+    "price": 158555,
     "size": 67,
     "bedrooms": 5,
     "bathrooms": 2,
@@ -1755,19 +1219,12 @@
     "location": "Model Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Balcony",
-      "Swimming Pool",
-      "Elevator",
-      "Garage",
-      "Smart Security"
-    ]
+    "features": "['Solar Panels', 'Balcony', 'Swimming Pool', 'Elevator', 'Garage', 'Smart Security']"
   },
   {
     "propertyId": "P095",
     "title": "Smart-Home in DHA",
-    "price": 215900,
+    "price": 212206,
     "size": 137,
     "bedrooms": 2,
     "bathrooms": 5,
@@ -1775,17 +1232,12 @@
     "location": "DHA",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Solar Panels",
-      "Servant Quarter",
-      "Garden",
-      "Gym"
-    ]
+    "features": "['Solar Panels', 'Servant Quarter', 'Garden', 'Gym']"
   },
   {
     "propertyId": "P096",
     "title": "Apartment in F-10",
-    "price": 158200,
+    "price": 147391,
     "size": 126,
     "bedrooms": 2,
     "bathrooms": 4,
@@ -1793,17 +1245,12 @@
     "location": "F-10",
     "type": "apartment",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Servant Quarter",
-      "Solar Panels",
-      "Elevator"
-    ]
+    "features": "['Smart Security', 'Servant Quarter', 'Solar Panels', 'Elevator']"
   },
   {
     "propertyId": "P097",
     "title": "Smart-Home in Model Town",
-    "price": 248700,
+    "price": 246048,
     "size": 191,
     "bedrooms": 4,
     "bathrooms": 4,
@@ -1811,18 +1258,12 @@
     "location": "Model Town",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Gym",
-      "Balcony",
-      "Swimming Pool",
-      "Solar Panels"
-    ]
+    "features": "['Smart Security', 'Gym', 'Balcony', 'Swimming Pool', 'Solar Panels']"
   },
   {
     "propertyId": "P098",
     "title": "Villa in Cantt",
-    "price": 311800,
+    "price": 317914,
     "size": 224,
     "bedrooms": 4,
     "bathrooms": 4,
@@ -1830,18 +1271,12 @@
     "location": "Cantt",
     "type": "villa",
     "status": "available",
-    "features": [
-      "Gym",
-      "CCTV",
-      "Balcony",
-      "Garden",
-      "Swimming Pool"
-    ]
+    "features": "['Gym', 'CCTV', 'Balcony', 'Garden', 'Swimming Pool']"
   },
   {
     "propertyId": "P099",
     "title": "House in People's Colony",
-    "price": 175900,
+    "price": 176420,
     "size": 137,
     "bedrooms": 3,
     "bathrooms": 3,
@@ -1849,16 +1284,12 @@
     "location": "People's Colony",
     "type": "house",
     "status": "available",
-    "features": [
-      "Balcony",
-      "Gym",
-      "Smart Security"
-    ]
+    "features": "['Balcony', 'Gym', 'Smart Security']"
   },
   {
     "propertyId": "P100",
     "title": "Smart-Home in DHA",
-    "price": 183200,
+    "price": 171478,
     "size": 76,
     "bedrooms": 3,
     "bathrooms": 5,
@@ -1866,10 +1297,6 @@
     "location": "DHA",
     "type": "smart-home",
     "status": "available",
-    "features": [
-      "Smart Security",
-      "Servant Quarter",
-      "Balcony"
-    ]
+    "features": "['Smart Security', 'Servant Quarter', 'Balcony']"
   }
 ]
