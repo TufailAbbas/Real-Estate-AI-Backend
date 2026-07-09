@@ -1,36 +1,42 @@
 # 🏠 House Price Prediction API
 
-## Overview
+A Machine Learning-based REST API that predicts house prices using property features such as city, location, property type, area, and amenities.
 
-House Price Prediction API is a Machine Learning project that predicts house prices based on property information. The project is built using **Python**, **FastAPI**, and **Scikit-learn**. A trained Linear Regression model is loaded through FastAPI and returns predicted prices via a REST API.
+The project is built with **Python**, **FastAPI**, and **Scikit-learn**, providing accurate house price predictions through a simple API.
 
 ---
 
-## Features
+# 📌 Features
 
 - Predict house prices using a trained Machine Learning model.
-- REST API built with FastAPI.
-- Automatic API documentation using Swagger UI.
-- Loads pre-trained model and preprocessing files.
-- Returns predictions in JSON format.
+- FastAPI REST API for real-time predictions.
+- Automatic interactive API documentation (Swagger UI).
+- Loads a pre-trained model using Joblib.
+- Handles categorical feature encoding.
+- Returns prediction results in JSON format.
 
 ---
 
-## Technologies Used
+# 🛠️ Technologies Used
 
-- Python
-- FastAPI
-- Uvicorn
+### Programming Language
+- Python 3
+
+### Machine Learning
 - Scikit-learn
 - Pandas
 - NumPy
 - Joblib
 
+### Backend
+- FastAPI
+- Uvicorn
+
 ---
 
-## Project Structure
+# 📂 Project Structure
 
-```
+```text
 House-Price-Prediction/
 │
 ├── Dataset/
@@ -40,14 +46,15 @@ House-Price-Prediction/
 │
 ├── price_predictor/
 │   ├── app.py
+│   ├── model.ipynb
 │   ├── price_model.pkl
 │   ├── model_columns.pkl
 │   ├── city_list.pkl
 │   ├── location_list.pkl
 │   ├── amenity_list.pkl
 │   ├── type_list.pkl
-│   ├── model.ipynb
-│   └── requirements.txt
+│   ├── requirements.txt
+│   └── __pycache__/
 │
 ├── .gitignore
 └── README.md
@@ -55,43 +62,114 @@ House-Price-Prediction/
 
 ---
 
-## Installation
+# ⚙️ Installation
 
-Clone the repository
+## 1. Clone the repository
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/TufailAbbas/Real-Estate-AI-Backend
 ```
 
-Move into the project folder
+Replace **YOUR_USERNAME** and **YOUR_REPOSITORY** with your actual GitHub username and repository name.
+
+---
+
+## 2. Navigate to the project
 
 ```bash
-cd your-repository
-```
-
-Install the required packages
-
-```bash
-pip install -r price_predictor/requirements.txt
+cd House-Price-Prediction
 ```
 
 ---
 
-## Running the API
-
-Run the following command inside the **price_predictor** folder:
+## 3. Install the required packages
 
 ```bash
-uvicorn app:app --reload
+python -m pip install -r price_predictor/requirements.txt
 ```
 
-The API will start at:
+---
+
+# ▶️ Run the API
+
+Start the FastAPI server:
+
+```bash
+python -m uvicorn price_predictor.app:app --reload
+```
+
+After the server starts, open:
+
+### API
 
 ```
 http://127.0.0.1:8000
 ```
 
-Swagger API Documentation:
+### Swagger Documentation
+
+```
+http://127.0.0.1:8000/docs
+```
+
+Swagger allows you to test every endpoint directly from your browser.
+
+---
+
+# 📊 Machine Learning Workflow
+
+The prediction model was developed using the following pipeline:
+
+1. Load dataset
+2. Data preprocessing
+3. Handle missing values
+4. Encode categorical features
+5. Feature selection
+6. Train-Test Split
+7. Train Linear Regression model
+8. Evaluate model performance
+9. Save model using Joblib
+10. Deploy model using FastAPI
+
+---
+
+# 📁 Model Files
+
+The following files are used during prediction:
+
+| File | Description |
+|------|-------------|
+| `price_model.pkl` | Trained Machine Learning model |
+| `model_columns.pkl` | Input feature names |
+| `city_list.pkl` | List of supported cities |
+| `location_list.pkl` | List of supported locations |
+| `amenity_list.pkl` | List of amenities |
+| `type_list.pkl` | List of property types |
+
+---
+
+# 🚀 API Response
+
+The API returns the predicted house price as JSON.
+
+Example response:
+
+```json
+{
+    "predicted_price": 15250000
+}
+```
+
+---
+
+# 🧪 Testing the API
+
+You can test the API in two ways:
+
+- Swagger UI
+- REST clients such as Postman
+
+Swagger URL:
 
 ```
 http://127.0.0.1:8000/docs
@@ -99,60 +177,34 @@ http://127.0.0.1:8000/docs
 
 ---
 
-## Machine Learning Workflow
+# 🔮 Future Improvements
 
-1. Load the dataset.
-2. Clean and preprocess the data.
-3. Encode categorical features.
-4. Train the Linear Regression model.
-5. Save the trained model using Joblib.
-6. Load the model in FastAPI.
-7. Accept user input through API requests.
-8. Return the predicted house price.
+- Develop a responsive web frontend.
+- Improve prediction accuracy using advanced ML models.
+- Deploy the application to the cloud.
+- Store prediction history in a database.
+- Add authentication and user management.
+- Support image-based property analysis.
 
 ---
 
-## Model Files
-
-The project includes the following saved files:
-
-- `price_model.pkl` – Trained Machine Learning model
-- `model_columns.pkl` – Feature column names
-- `city_list.pkl` – List of supported cities
-- `location_list.pkl` – List of supported locations
-- `amenity_list.pkl` – List of amenities
-- `type_list.pkl` – Property types
-
----
-
-## API Response
-
-The API accepts house information and returns the predicted price in JSON format.
-
-Example:
-
-```json
-{
-    "predicted_price": 14500000
-}
-```
-
----
-
-## Future Improvements
-
-- Develop a web frontend.
-- Improve prediction accuracy using advanced models.
-- Deploy the API to the cloud.
-- Add authentication.
-- Store prediction history.
-
----
-
-## Author
+# 👨‍💻 Author
 
 **Tufail Abbas**
 
 Computer Science Student
 
-Interested in Artificial Intelligence, Machine Learning, and Backend Development.
+University of Peshawar
+
+Interested in:
+- Artificial Intelligence
+- Machine Learning
+- Deep Learning
+- FastAPI
+- Backend Development
+
+---
+
+# 📄 License
+
+This project is intended for educational and learning purposes.
